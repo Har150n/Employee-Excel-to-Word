@@ -1,4 +1,4 @@
-# Employee-Excel-to-Word
+# Excel Data into Word Document
 A program that takes employee data from an excel document and writes a word document in an organized report format.
 
 1. Open the runnable jar file
